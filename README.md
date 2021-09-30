@@ -22,6 +22,8 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-ff00b3?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/heavy_armor)
 [![VK](https://img.shields.io/badge/-VKontakte-00ff1a?style=for-the-badge&logo=VK&logoColor=000000)](https://vk.com/heavyground)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy666Fox&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
