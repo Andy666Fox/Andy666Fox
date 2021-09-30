@@ -4,7 +4,7 @@
 
 
 
-### <center>Languages and Tools</center>
+### <p align="justify">Languages and Tools</p>
 
 ![Python](https://img.shields.io/badge/-Python-00ff1a?style=for-the-badge&logo=python&logoColor=000000)
 ![Scikit-Learn](https://img.shields.io/badge/-SClearn-40ff00?style=for-the-badge&logo=scikit-learn&logoColor=000000)
