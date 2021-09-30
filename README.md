@@ -15,5 +15,12 @@
 ![SQL](https://img.shields.io/badge/-SQL-ffae00?style=for-the-badge&logo=sql&logoColor=000000)
 ![SWEETVIZ](https://img.shields.io/badge/-SWEETVIZ-ff7b00?style=for-the-badge&logo=sql&logoColor=000000)
 
+### Follow Me
+[![Linkedin](https://img.shields.io/badge/-Linkedin-ff005d?style=for-the-badge&logo=linkedin&logoColor=000000)](www.linkedin.com/in/heavyarmor)
+[![Telegram](https://img.shields.io/badge/-Telegram-ff00b3?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/heavy_armor)
+[![VK](https://img.shields.io/badge/-VKontakte-00ff1a?style=for-the-badge&logo=VK&logoColor=000000)](https://vk.com/heavyground)
+
+
+
 
 
