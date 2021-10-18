@@ -27,12 +27,12 @@
 
 ## Highlights
 In this section, you can see a brief description of most of the repositories.
-## ------------------------------------------------------
+
 
 ### [Matrix_Image](https://github.com/Andy666Fox/Matrix_image)
 A small program transforms the image so that it appears in the 'Matrix'
 
-![MATRIX]()
+![MATRIX](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/mi.png)
 
 
 
