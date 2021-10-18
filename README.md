@@ -1,5 +1,4 @@
 ![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_7.gif)
-![UnderHeader](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_8.png)
 
 ## Young data scientist. Writing in Python. Playing guitar
 
