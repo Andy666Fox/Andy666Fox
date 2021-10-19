@@ -35,6 +35,21 @@ A small program transforms the image so that it appears in the 'Matrix'
 ![MATRIX](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/mi.png)
 
 
+### [Sound-Graphic encoding](https://github.com/Andy666Fox/SGE)
+Not the most productive but rather creative way to hide sound in an image.
+
+![SGE](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/enc.png)
+
+
+### [Game of Life](https://github.com/Andy666Fox/Game_Of_Life)
+Classical Implementation of the Von Neumann Cellular Automaton
+
+![Game of Life](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/lg.png)
+
+
+
+
+
 
 
 
