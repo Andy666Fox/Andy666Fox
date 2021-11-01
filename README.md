@@ -18,7 +18,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-ffae00?style=for-the-badge&logo=sql&logoColor=000000)
 ![SWEETVIZ](https://img.shields.io/badge/-SWEETVIZ-ff7b00?style=for-the-badge&logo=sql&logoColor=000000)
 
-### <center>Follow Me</center>
+### Follow Me
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-ff005d?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/heavyarmor/)
 [![Telegram](https://img.shields.io/badge/-Telegram-ff00b3?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/heavy_armor)
