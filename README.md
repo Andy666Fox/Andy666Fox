@@ -28,23 +28,23 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy666Fox&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Highlights
-In this section, you can see a brief description of most of the repositories.
+### In this section, you can see a brief description of most of the repositories.
 
 
 ### [Matrix_Image](https://github.com/Andy666Fox/Matrix_image)
-A small program transforms the image so that it appears in the 'Matrix'
+### A small program transforms the image so that it appears in the 'Matrix'
 
 ![MATRIX](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/mi.png)
 
 
 ### [Sound-Graphic encoding](https://github.com/Andy666Fox/SGE)
-Not the most productive but rather creative way to hide sound in an image.
+### Not the most productive but rather creative way to hide sound in an image.
 
 ![SGE](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/enc.png)
 
 
 ### [Game of Life](https://github.com/Andy666Fox/Game_Of_Life)
-Classical Implementation of the Von Neumann Cellular Automaton
+### Classical Implementation of the Von Neumann Cellular Automaton
 
 ![Game of Life](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/lg.png)
 
