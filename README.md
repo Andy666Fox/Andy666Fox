@@ -1,8 +1,8 @@
-![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_2.gif)
+![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header.gif)
 
 # Homo ceu gladius est, aut officiis fungitur aut hebes est
 
-## Young data scientist. Writing in Python. Playing guitar
+## Young data scientist. Writing in Python. Playing guitar.
 
 
 
