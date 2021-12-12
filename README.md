@@ -1,6 +1,6 @@
-![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header.gif)
+![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_4.gif)
 
-# Homo ceu gladius est, aut officiis fungitur aut hebes est
+# **Homo ceu gladius est, aut officiis fungitur aut hebes est**
 
 ## Young data scientist. Writing in Python. Playing guitar.
 
