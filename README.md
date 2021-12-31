@@ -46,7 +46,7 @@
 ### [Mandelbrot fractal](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Mandelbroth)
 ### An interactive journey through the Mandelbrot fractal
 
-![Mandelbrot fractal](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/lg.png)
+![Mandelbrot fractal](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/logo.png)
 
 
 
