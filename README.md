@@ -1,4 +1,4 @@
-![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_7.gif)
+![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_4.gif)
 
 # **Homo ceu gladius est, aut officiis fungitur aut hebes est**
 
@@ -43,10 +43,10 @@
 ![SGE](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/enc.png)
 
 
-### [Game of Life](https://github.com/Andy666Fox/Game_Of_Life)
-### Classical Implementation of the Von Neumann Cellular Automaton
+### [Mandelbrot fractal](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Mandelbroth)
+### An interactive journey through the Mandelbrot fractal
 
-![Game of Life](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/lg.png)
+![Mandelbrot fractal](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/lg.png)
 
 
 
