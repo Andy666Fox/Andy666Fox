@@ -34,7 +34,7 @@
 ### [Matrix_Image](https://github.com/Andy666Fox/Matrix_image)
 ### A small program transforms the image so that it appears in the 'Matrix'
 
-![MATRIX](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/mi.png)
+![MATRIX](https://github.com/Andy666Fox/Matrix_image/blob/main/readme_images/demo.gif?raw=true)
 
 
 ### [Sound-Graphic encoding](https://github.com/Andy666Fox/SGE)
