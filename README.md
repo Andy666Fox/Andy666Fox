@@ -51,6 +51,10 @@
 
 ---
 
+## [Sound Graphic Encoding](https://github.com/Andy666Fox/SGE)
+### Not the fastest, but beautiful way to encode sound into an image.
+![SGE](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/sge_logo.png)
+
 
 
 
