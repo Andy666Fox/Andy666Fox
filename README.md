@@ -31,11 +31,17 @@
 ### In this section, you can see a brief description of most of the repositories.
 
 ---
+---
 
 ## [Tiny Data Science Projects](https://github.com/Andy666Fox/TINY_DS_PROJECTS)
 ![DS_LOGO](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/ds_logo.jpg)
 
 ### This repository contains small Data Science studies on various topics.
+1. [Game_Sales_Analysis](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Game_Sales_Analysis)
+2. [Flipkart_Research](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Flipkart_research)
+3. [Netflix_Recomendation](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Netflix_Recomendation)
+
+---
 
 
 
