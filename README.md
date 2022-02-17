@@ -55,6 +55,14 @@
 ### Not the fastest, but beautiful way to encode sound into an image.
 ![SGE](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/sge_logo.png)
 
+---
+
+## [GoDoART](https://github.com/Andy666Fox/GoDoArt)
+### My main model for GAN based image generation.
+![GDT](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_4.gif)
+
+---
+
 
 
 
