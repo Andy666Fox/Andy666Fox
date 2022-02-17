@@ -3,7 +3,7 @@
 # **Homo ceu gladius est, aut officiis fungitur aut hebes est**
 
 ## Young data scientist. Writing in Python. Playing guitar.
-
+---
 
 
 ### Languages and Tools
@@ -27,6 +27,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy666Fox&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 ## Highlights
 ### In this section, you can see a brief description of most of the repositories.
 
@@ -40,6 +42,12 @@
 1. [Game_Sales_Analysis](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Game_Sales_Analysis)
 2. [Flipkart_Research](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Flipkart_research)
 3. [Netflix_Recomendation](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Netflix_Recomendation)
+
+---
+
+## [Matrix Image](https://github.com/Andy666Fox/Matrix_image)
+### A small interactive project for styling images in the form of a movie "The Matrix"
+![Zero Two](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/zt_logo.png)
 
 ---
 
