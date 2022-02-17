@@ -30,23 +30,12 @@
 ## Highlights
 ### In this section, you can see a brief description of most of the repositories.
 
+---
 
-### [Matrix_Image](https://github.com/Andy666Fox/Matrix_image)
-### A small program transforms the image so that it appears in the 'Matrix'
+## Tiny Data Science Projects
 
-![MATRIX](https://github.com/Andy666Fox/Matrix_image/blob/main/readme_images/demo.gif?raw=true)
+### This repository contains small Data Science studies on various topics.
 
-
-### [Sound-Graphic encoding](https://github.com/Andy666Fox/SGE)
-### Not the most productive but rather creative way to hide sound in an image.
-
-![SGE](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/enc.png)
-
-
-### [Mandelbrot fractal](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Mandelbroth)
-### An interactive journey through the Mandelbrot fractal
-
-![Mandelbrot fractal](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/logo.png)
 
 
 
