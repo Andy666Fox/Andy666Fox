@@ -32,7 +32,8 @@
 
 ---
 
-## Tiny Data Science Projects
+## [Tiny Data Science Projects](https://github.com/Andy666Fox/TINY_DS_PROJECTS)
+![DS_LOGO](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/ds_logo.jpg)
 
 ### This repository contains small Data Science studies on various topics.
 
