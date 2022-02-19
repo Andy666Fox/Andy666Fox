@@ -29,7 +29,7 @@
 
 ---
 
-![Hey my resume is here](https://github.com/Andy666Fox/Andy666Fox/blob/main/Resume/Artem%20Moroyanu.pdf)
+## ![Hey my resume is here](https://github.com/Andy666Fox/Andy666Fox/blob/main/Resume/Artem%20Moroyanu.pdf)
 
 ---
 
