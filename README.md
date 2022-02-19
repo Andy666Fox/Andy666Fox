@@ -29,6 +29,10 @@
 
 ---
 
+![Hey my resume is here](https://github.com/Andy666Fox/Andy666Fox/blob/main/Resume/Artem%20Moroyanu.pdf)
+
+---
+
 ## Highlights
 ### In this section, you can see a brief description of most of the repositories.
 
