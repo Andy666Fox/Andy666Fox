@@ -2,6 +2,7 @@
 
 # **Homo ceu gladius est, aut officiis fungitur aut hebes est**
 
+
 ## Young data scientist. Writing in Python. Playing guitar.
 ---
 
@@ -17,6 +18,7 @@
 ![DABL](https://img.shields.io/badge/-DABL-ffd900?style=for-the-badge&logo=dabl&logoColor=000000)
 ![SQL](https://img.shields.io/badge/-SQL-ffae00?style=for-the-badge&logo=sql&logoColor=000000)
 ![SWEETVIZ](https://img.shields.io/badge/-SWEETVIZ-ff7b00?style=for-the-badge&logo=sql&logoColor=000000)
+
 
 ### Follow Me
 
