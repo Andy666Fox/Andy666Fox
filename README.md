@@ -23,6 +23,7 @@
 
 ### Follow Me
 
+
 [![Linkedin](https://img.shields.io/badge/-Linkedin-ff005d?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/heavyarmor/)
 [![Telegram](https://img.shields.io/badge/-Telegram-ff00b3?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/heavy_armor)
 [![VK](https://img.shields.io/badge/-VKontakte-0E3DF3?style=for-the-badge&logo=VK&logoColor=000000)](https://vk.com/heavyground)
@@ -39,7 +40,6 @@
 ## Highlights
 ### In this section, you can see a brief description of most of the repositories.
 
----
 ---
 
 ## [Tiny Data Science Projects](https://github.com/Andy666Fox/TINY_DS_PROJECTS)
