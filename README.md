@@ -66,7 +66,7 @@
 
 ## [GoDoART](https://github.com/Andy666Fox/GoDoArt)
 ### My main model for GAN based image generation.
-![GDT](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_4.gif)
+![GDT](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/head_13.gif)
 
 ---
 
