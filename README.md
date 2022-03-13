@@ -1,4 +1,4 @@
-![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/head_10.gif)
+![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/head_10.gif?raw=true)
 
 # **Homo ceu gladius est, aut officiis fungitur aut hebes est**
 
@@ -43,7 +43,7 @@
 ---
 
 ## [Tiny Data Science Projects](https://github.com/Andy666Fox/TINY_DS_PROJECTS)
-![DS_LOGO](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/ds_logo.jpg)
+![DS_LOGO](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/ds_logo.jpg?raw=true)
 
 ### This repository contains small Data Science studies on various topics.
 1. [Game_Sales_Analysis](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Game_Sales_Analysis)
@@ -54,13 +54,13 @@
 
 ## [Matrix Image](https://github.com/Andy666Fox/Matrix_image)
 ### A small interactive project for styling images in the form of a movie "The Matrix"
-![Zero Two](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/zt_logo.png)
+![Zero Two](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/zt_logo.png?raw=true)
 
 ---
 
 ## [Sound Graphic Encoding](https://github.com/Andy666Fox/SGE)
 ### Not the fastest, but beautiful way to encode sound into an image.
-![SGE](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/sge_logo.png)
+![SGE](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/sge_logo.png?raw=true)
 
 ---
 
