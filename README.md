@@ -1,4 +1,4 @@
-![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/head_17.gif?raw=true)
+![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/head_1.gif?raw=true)
 
 # **Homo ceu gladius est, aut officiis fungitur aut hebes est**
 
@@ -21,6 +21,16 @@
 ![SWEETVIZ](https://img.shields.io/badge/-SWEETVIZ-ff7b00?style=for-the-badge&logo=sql&logoColor=000000)
 
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy666Fox&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## ![Hey my resume is here](https://github.com/Andy666Fox/Andy666Fox/blob/main/Resume/Artem%20Moroyanu.pdf)
+
+---
+
 ### Follow Me
 
 
@@ -28,12 +38,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-ff00b3?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/heavy_armor)
 [![VK](https://img.shields.io/badge/-VKontakte-0E3DF3?style=for-the-badge&logo=VK&logoColor=000000)](https://vk.com/heavyground)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-0EEEF3?style=for-the-badge&logo=Kaggle&logoColor=000000)](https://www.kaggle.com/godovorez)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy666Fox&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## ![Hey my resume is here](https://github.com/Andy666Fox/Andy666Fox/blob/main/Resume/Artem%20Moroyanu.pdf)
 
 ---
 
