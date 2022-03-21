@@ -3,7 +3,7 @@
 # **Homo ceu gladius est, aut officiis fungitur aut hebes est**
 
 
-## Young data scientist. Writing in Python. Playing guitar.
+## Young data scientist. Doing research. Playing guitar.
 ---
 
 
