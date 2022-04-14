@@ -70,7 +70,7 @@
 
 ## [GoDoART](https://github.com/Andy666Fox/GoDoArt)
 ### My main model for GAN based image generation.
-![GDT](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/head_13.gif?raw=true)
+![GDT](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/gan_logo.gif?raw=true)
 
 ---
 
