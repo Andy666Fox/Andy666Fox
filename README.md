@@ -1,4 +1,4 @@
-![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_3.gif?raw=true)
+![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_2.gif?raw=true)
 
 # **Homo ceu gladius est, aut officiis fungitur aut hebes est**
 
@@ -56,6 +56,10 @@
 
 ---
 
+## [GoDoART](https://github.com/Andy666Fox/GoDoArt)
+### My main model for GAN based image generation.
+![GDT](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/gan_logo.gif?raw=true)
+
 ## [Matrix Image](https://github.com/Andy666Fox/Matrix_image)
 ### A small interactive project for styling images in the form of a movie "The Matrix"
 ![Zero Two](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/zt_logo.png?raw=true)
@@ -67,18 +71,3 @@
 ![SGE](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/sge_logo.png?raw=true)
 
 ---
-
-## [GoDoART](https://github.com/Andy666Fox/GoDoArt)
-### My main model for GAN based image generation.
-![GDT](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/gan_logo.gif?raw=true)
-
----
-
-
-
-
-
-
-
-
-
