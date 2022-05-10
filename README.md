@@ -1,4 +1,4 @@
-![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_1.gif?raw=true)
+![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_13.gif?raw=true)
 
 # **Homo ceu gladius est, aut officiis fungitur aut hebes est**
 
@@ -19,7 +19,6 @@
 ![DABL](https://img.shields.io/badge/-DABL-ffd900?style=for-the-badge&logo=dabl&logoColor=000000)
 ![SQL](https://img.shields.io/badge/-SQL-ffae00?style=for-the-badge&logo=sql&logoColor=000000)
 ![SWEETVIZ](https://img.shields.io/badge/-SWEETVIZ-ff7b00?style=for-the-badge&logo=sql&logoColor=000000)
-
 
 
 
