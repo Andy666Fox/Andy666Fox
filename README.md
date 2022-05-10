@@ -51,8 +51,8 @@
 
 ### This repository contains small Data Science studies on various topics.
 ### 1. [Game_Sales_Analysis](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Game_Sales_Analysis)
-### 2. [Flipkart_Research](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Flipkart_research)
-### 3. [Netflix_Recomendation](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Netflix_Recomendation)
+### 2. [Cancer Prediction](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Cancer_prediction)
+### 3. [Telcom Churn Prediction](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Telcom_Churn_predict)
 
 ---
 
