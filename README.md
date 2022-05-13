@@ -1,4 +1,4 @@
-![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_13.gif?raw=true)
+![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_6.gif?raw=true)
 
 # ***Homo ceu gladius est, aut officiis fungitur aut hebes est***
 
@@ -7,7 +7,7 @@
 ---
 
 
-### Languages and Tools
+### **Languages and Tools**
 
 
 ![Python](https://img.shields.io/badge/-Python-00ff1a?style=for-the-badge&logo=python&logoColor=000000)
@@ -31,7 +31,7 @@
 
 ---
 
-### Follow Me
+### **Follow Me**
 
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-ff005d?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/heavyarmor/)
@@ -41,32 +41,32 @@
 
 ---
 
-## Highlights
+## **Highlights**
 ### In this section, you can see a brief description of most of the repositories.
 
 ---
 
-## [Tiny Data Science Projects](https://github.com/Andy666Fox/TINY_DS_PROJECTS)
+## [**Tiny Data Science Projects**](https://github.com/Andy666Fox/TINY_DS_PROJECTS)
 ![DS_LOGO](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/ds_logo.jpg?raw=true)
 
-### This repository contains small Data Science studies on various topics.
+### **This repository contains small Data Science studies on various topics.**
 ### 1. [Game_Sales_Analysis](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Game_Sales_Analysis)
 ### 2. [Cancer Prediction](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Cancer_prediction)
 ### 3. [Telcom Churn Prediction](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Telcom_Churn_predict)
 
 ---
 
-## [GoDoART](https://github.com/Andy666Fox/GoDoArt)
+## [**GoDoART**](https://github.com/Andy666Fox/GoDoArt)
 ### My main model for GAN based image generation.
 ![GDT](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/gan_logo.gif?raw=true)
 
-## [Matrix Image](https://github.com/Andy666Fox/Matrix_image)
+## [**Matrix Image**](https://github.com/Andy666Fox/Matrix_image)
 ### A small interactive project for styling images in the form of a movie "The Matrix"
 ![Zero Two](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/zt_logo.png?raw=true)
 
 ---
 
-## [Sound Graphic Encoding](https://github.com/Andy666Fox/SGE)
+## [**Sound Graphic Encoding**](https://github.com/Andy666Fox/SGE)
 ### Not the fastest, but beautiful way to encode sound into an image.
 ![SGE](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/sge_logo.png?raw=true)
 
