@@ -51,7 +51,7 @@
 
 ### **This repository contains small Data Science studies on various topics.**
 ### 1. [Game_Sales_Analysis🎮](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Game_Sales_Analysis)
-### 2. [Cancer Prediction🦀](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Cancer_prediction)
+### 2. [ANIME GAN👺](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/FFA_GAN)
 ### 3. [Telcom Churn Prediction☎️](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Telcom_Churn_predict)
 
 ---
