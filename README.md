@@ -54,21 +54,3 @@
 ### 1. [Game_Sales_Analysis🎮](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Game_Sales_Analysis)
 ### 2. [ANIME GAN👺](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/FFA_GAN)
 ### 3. [Telcom Churn Prediction☎️](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Telcom_Churn_predict)
-
----
-
-## [**GoDoART🖌️**](https://github.com/Andy666Fox/GoDoArt)
-### My main model for GAN based image generation.
-![GDT](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/gan_logo.gif?raw=true)
-
-## [**Matrix Image💻**](https://github.com/Andy666Fox/Matrix_image)
-### A small interactive project for styling images in the form of a movie "The Matrix"
-![Zero Two](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/zt_logo.png?raw=true)
-
----
-
-## [**Sound Graphic Encoding🎵**](https://github.com/Andy666Fox/SGE)
-### Not the fastest, but beautiful way to encode sound into an image.
-![SGE](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/sge_logo.png?raw=true)
-
----
