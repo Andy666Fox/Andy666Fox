@@ -12,8 +12,9 @@
 
 ![Python](https://img.shields.io/badge/-Python-00ff1a?style=for-the-badge&logo=python&logoColor=000000)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-40ff00?style=for-the-badge&logo=fastapi&logoColor=000000)
-![PYTORCH](https://img.shields.io/badge/-PYTORCH-ff7b00?style=for-the-badge&logo=pytorch&logoColor=000000)
-![PySPark](https://img.shields.io/badge/-PySpark-ffd90?style=for-the-badge&logo=dabl&logoColor=000000)
+![Pydantic](https://img.shields.io/badge/-Pydantic-ffd90?style=for-the-badge&logo=pydantic&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ff7b00?style=for-the-badge&logo=postgresql&logoColor=000000)
+![Redis](https://img.shields.io/badge/-Redis-ffd90?style=for-the-badge&logo=redis&logoColor=000000)
 ![AutoML](https://img.shields.io/badge/-AutoML-ff7b00?style=for-the-badge&logo=sql&logoColor=000000)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-ddff00?style=for-the-badge&logo=Matplotlib&logoColor=000000)
 ![Pandas](https://img.shields.io/badge/-Pandas-91ff00?style=for-the-badge&logo=pandas&logoColor=000000)
