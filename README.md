@@ -1,9 +1,9 @@
-![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_16.gif?raw=true)
+![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_1.gif?raw=true)
 
 # ***⚔️Homo ceu gladius est, aut officiis fungitur aut hebes est⚔️***
 
 
-## Young data scientist. Doing research. Playing guitar.🔬🎸
+## Back End enjoyer
 ---
 
 
@@ -11,7 +11,7 @@
 
 
 ![Python](https://img.shields.io/badge/-Python-00ff1a?style=for-the-badge&logo=python&logoColor=000000)
-![Scikit-Learn](https://img.shields.io/badge/-SClearn-40ff00?style=for-the-badge&logo=scikit-learn&logoColor=000000)
+![FastAPI](https://img.shields.io/badge/-FastAPI-40ff00?style=for-the-badge&logo=fastapi&logoColor=000000)
 ![PYTORCH](https://img.shields.io/badge/-PYTORCH-ff7b00?style=for-the-badge&logo=pytorch&logoColor=000000)
 ![PySPark](https://img.shields.io/badge/-PySpark-ffd90?style=for-the-badge&logo=dabl&logoColor=000000)
 ![AutoML](https://img.shields.io/badge/-AutoML-ff7b00?style=for-the-badge&logo=sql&logoColor=000000)
