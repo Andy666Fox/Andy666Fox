@@ -15,11 +15,8 @@
 ![Pydantic](https://img.shields.io/badge/-Pydantic-ffd90?style=for-the-badge&logo=pydantic&logoColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ff7b00?style=for-the-badge&logo=postgresql&logoColor=000000)
 ![Redis](https://img.shields.io/badge/-Redis-ffd90?style=for-the-badge&logo=redis&logoColor=000000)
-![AutoML](https://img.shields.io/badge/-AutoML-ff7b00?style=for-the-badge&logo=sql&logoColor=000000)
-![XGBoost](https://img.shields.io/badge/-XGBoost-ddff00?style=for-the-badge&logo=Matplotlib&logoColor=000000)
-![Pandas](https://img.shields.io/badge/-Pandas-91ff00?style=for-the-badge&logo=pandas&logoColor=000000)
-![Numpy](https://img.shields.io/badge/-Numpy-bfff00?style=for-the-badge&logo=numpy&logoColor=000000)
-![SQL](https://img.shields.io/badge/-SQL-ffae00?style=for-the-badge&logo=sql&logoColor=000000)
+![Celery](https://img.shields.io/badge/-Celery-ff7b00?style=for-the-badge&logo=celery&logoColor=000000)
+![Grafana](https://img.shields.io/badge/-Grafana-ddff00?style=for-the-badge&logo=grafana&logoColor=000000)
 
 
 
