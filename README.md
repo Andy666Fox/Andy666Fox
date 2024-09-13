@@ -26,7 +26,7 @@
 
 
 ## ![🔥Hey my resume is here🔥](https://github.com/Andy666Fox/Andy666Fox/blob/main/Resume/Artem_Moroyanu.pdf)
-![JJ](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/jj.gif?raw=true)
+![JJ]((https://github.com/Andy666Fox/Andy666Fox/blob/main/Resume/Moroyanu_CV.pdf))
 
 ---
 
