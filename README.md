@@ -14,9 +14,6 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-40ff00?style=for-the-badge&logo=fastapi&logoColor=000000)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-ffd90?style=for-the-badge&logo=pydantic&logoColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ff7b00?style=for-the-badge&logo=postgresql&logoColor=000000)
-![Redis](https://img.shields.io/badge/-Redis-ffd90?style=for-the-badge&logo=redis&logoColor=000000)
-![Celery](https://img.shields.io/badge/-Celery-ff7b00?style=for-the-badge&logo=celery&logoColor=000000)
-![Grafana](https://img.shields.io/badge/-Grafana-ddff00?style=for-the-badge&logo=grafana&logoColor=000000)
 
 
 
