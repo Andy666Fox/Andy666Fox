@@ -1,9 +1,9 @@
-![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_13.gif?raw=true)
+![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_12.gif?raw=true)
 
 # ***⚔️Homo ceu gladius est, aut officiis fungitur aut hebes est⚔️***
 
 
-## ---------------------Back End enjoyer---------------------
+## ---------------------Python Priest---------------------
 ---
 
 
@@ -45,10 +45,6 @@
 
 ---
 
-## [**Tiny Data Science Projects🏗️**](https://github.com/Andy666Fox/TINY_DS_PROJECTS)
-![DS_LOGO](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/ds_logo.jpg?raw=true)
+### 1. [Emperical Mode Decomposition Stock Analyze](https://github.com/Andy666Fox/emd_traiding)
+### 2. [Sound Graphic Encoder](https://github.com/Andy666Fox/SGE)
 
-### **This repository contains small Data Science studies on various topics.**
-### 1. [Game_Sales_Analysis🎮](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Game_Sales_Analysis)
-### 2. [ANIME GAN👺](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/FFA_GAN)
-### 3. [Telcom Churn Prediction☎️](https://github.com/Andy666Fox/TINY_DS_PROJECTS/tree/main/Telcom_Churn_predict)
