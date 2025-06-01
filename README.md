@@ -44,5 +44,5 @@
 
 ### 1. [Emperical Mode Decomposition Stock Analyze](https://github.com/Andy666Fox/emd_traiding)
 ### 2. [Sound Graphic Encoder](https://github.com/Andy666Fox/SGE)
-### 2. [Random Bot Lite]([https://github.com/Andy666Fox/SGE](https://github.com/Andy666Fox/random_bot_lite))
+### 2. [Random Bot Lite](https://github.com/Andy666Fox/random_bot_lite)
 
