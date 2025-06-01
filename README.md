@@ -1,4 +1,4 @@
-![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_7.gif?raw=true)
+![Header](https://github.com/Andy666Fox/Andy666Fox/blob/main/assets/header_9.gif?raw=true)
 
 # ***⚔️Homo ceu gladius est, aut officiis fungitur aut hebes est⚔️***
 
@@ -44,4 +44,5 @@
 
 ### 1. [Emperical Mode Decomposition Stock Analyze](https://github.com/Andy666Fox/emd_traiding)
 ### 2. [Sound Graphic Encoder](https://github.com/Andy666Fox/SGE)
+### 2. [Random Bot Lite]([https://github.com/Andy666Fox/SGE](https://github.com/Andy666Fox/random_bot_lite))
 
