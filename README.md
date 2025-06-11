@@ -21,10 +21,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy666Fox&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-## ![🔥Hey my resume is here🔥](https://github.com/Andy666Fox/Andy666Fox/blob/main/Resume/Moroyanu_CV.pdf)
-![JJ](https://github.com/Andy666Fox/Andy666Fox/blob/main/highlights_images/jj.gif)
-
 ---
 
 ### **🚩Follow Me🚩**
