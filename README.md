@@ -11,8 +11,8 @@
 
 
 ![Python](https://img.shields.io/badge/-Python-00ff1a?style=for-the-badge&logo=python&logoColor=000000)
-![FastAPI](https://img.shields.io/badge/-FastAPI-40ff00?style=for-the-badge&logo=fastapi&logoColor=000000)
-![Pydantic](https://img.shields.io/badge/-Pydantic-ffd90?style=for-the-badge&logo=pydantic&logoColor=000000)
+![FastAPI](https://img.shields.io/badge/-Ansible-40ff00?style=for-the-badge&logo=fastapi&logoColor=000000)
+![Pydantic](https://img.shields.io/badge/-Terraform-ffd90?style=for-the-badge&logo=pydantic&logoColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ff7b00?style=for-the-badge&logo=postgresql&logoColor=000000)
 
 
