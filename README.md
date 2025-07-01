@@ -13,6 +13,9 @@
 ![Python](https://img.shields.io/badge/-Python-00ff1a?style=for-the-badge&logo=python&logoColor=000000)
 ![FastAPI](https://img.shields.io/badge/-Ansible-40ff00?style=for-the-badge&logo=ansible&logoColor=000000)
 ![Pydantic](https://img.shields.io/badge/-Terraform-ffd90?style=for-the-badge&logo=terraform&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/-Kubernetes-ff7b00?style=for-the-badge&logo=kubernetes&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/-ArgoCD-ff7b00?style=for-the-badge&logo=argocd&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/-Linux-ff7b00?style=for-the-badge&logo=linux&logoColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ff7b00?style=for-the-badge&logo=postgresql&logoColor=000000)
 
 
